@@ -1,0 +1,5 @@
+streamlit
+torch
+tensorflow  # If you're using it for your GNN model
+pandas      # If using data processing
+numpy       # If using scientific computation
